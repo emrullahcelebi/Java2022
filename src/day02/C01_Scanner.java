@@ -9,6 +9,7 @@ public class C01_Scanner {
         System.out.println("Karenin bir kenar uzunlugunu girin");
         double kenar=scan.nextDouble();
         System.out.println(kenar*kenar);
+        scan.close();
 
 
 

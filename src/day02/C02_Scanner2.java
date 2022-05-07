@@ -11,6 +11,7 @@ public class C02_Scanner2 {
         System.out.println("soyisminizi giriniz");
         String soyisim=scan2.nextLine();
         System.out.println(isim+" "+soyisim);
+        scan.close();
 
     }
 }

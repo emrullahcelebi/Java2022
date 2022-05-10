@@ -12,6 +12,7 @@ public class C03 {
 
         double z= x>y ? x:y;
         System.out.println("en buyuk sayi karsinizda"+" : " + z);
+        scan.close();
 
     }
 }

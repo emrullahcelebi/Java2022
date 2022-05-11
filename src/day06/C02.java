@@ -17,6 +17,6 @@ public class C02 {
 
         System.out.println(sorgu);
 
-
+scan.close();
     }
 }

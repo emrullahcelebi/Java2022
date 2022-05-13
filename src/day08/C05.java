@@ -22,6 +22,7 @@ public class C05 {
             }
 
         }
+        scan.close();
     }
 
     public static int rakamlarToplamiHesapla(int sayi) {

@@ -14,5 +14,6 @@ public class C03 {
             toplam+=i;
         }
         System.out.println(toplam);
+        scan.close();
     }
 }

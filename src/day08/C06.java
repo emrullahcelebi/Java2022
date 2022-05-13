@@ -11,7 +11,7 @@ public class C06 {
 
         faktoriyel(sayi);
 
-
+scan.close();
     }
 
     public static void faktoriyel(int sayi) {

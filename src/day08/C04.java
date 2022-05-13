@@ -14,6 +14,7 @@ public class C04 {
         }else{
             rakamlarToplami(sayi);
         }
+        scan.close();
     }
 
     public static void rakamlarToplami(int sayi) {

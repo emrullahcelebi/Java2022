@@ -12,7 +12,7 @@ public class ParametreliConstractor {
         this.yil=yil;
 
     }
-    public ParametreliConstractor(){
+    public ParametreliConstractor(){//default
 
     }
     public ParametreliConstractor(String marka, String model){

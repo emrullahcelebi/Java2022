@@ -8,5 +8,8 @@ public interface C01 {
     void vites();
     abstract void kasa();
 
+    String ISIM="Mustafa";
+
+
 
 }

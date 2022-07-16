@@ -1,6 +1,5 @@
 package day21;
 
-import java.nio.file.DirectoryIteratorException;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -12,7 +11,7 @@ public class C04 {
         list.add("A");
         list.add("B");
         list.add("C");
-        list.add("D");
+        list.add("day27");
         System.out.println(list);
 
         for (String each:list) {
